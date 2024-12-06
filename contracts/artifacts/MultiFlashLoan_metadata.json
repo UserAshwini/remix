@@ -1,0 +1,45 @@
+{
+	"compiler": {
+		"version": "0.8.27+commit.40a35a09"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/MultiFlashLoan.sol": "MultiFlashLoan"
+		},
+		"evmVersion": "cancun",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/MultiFlashLoan.sol": {
+			"keccak256": "0xc37677c8bccbf0795a73629b0775c46f91b8edb4be1bea31ff0b7245e72a2038",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://927f75aee8a73f78d8f7e43547c9a0e61ca5d52f4282432ff452e8cca409e103",
+				"dweb:/ipfs/Qmbvzm3xoTRHAXeXnEtYdDhfcydthqqhFNiy2yv5kXGHut"
+			]
+		}
+	},
+	"version": 1
+}
